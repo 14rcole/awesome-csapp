@@ -1,10 +1,11 @@
-# awesome-csapp
+# Awesome CSAPP
 A curated list of awesome resources to give you a leg up in computer systems courses based off of the Computer Systems: A Programmer's Perspective textbook.  For example, CS 213 (CMU), CSE202 (Lehigh), and CSCI-UA 201 (NYU)
 
 ### Contents
+- [Topics (listed by chapter)](#topics)
 
 
-## Topics (listed by chapter)
+## Topics
 ### Chapter 1: A Tour of Computer Systems
 
 ### Chapter 2: Representing and Manipulating information
