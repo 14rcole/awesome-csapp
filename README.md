@@ -3,6 +3,9 @@ A curated list of awesome resources to give you a leg up in computer systems cou
 
 ### Contents
 - [Topics (listed by chapter)](#topics)
+    - [A Tour of Computer Systems] (#chapter-1-a-tour-of-computer-systems)
+- [Labs](#labs)
+- [Other](#miscellaneous-resources)
 
 
 ## Topics
