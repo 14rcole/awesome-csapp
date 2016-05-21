@@ -4,50 +4,50 @@ A curated list of awesome resources to give you a leg up in computer systems cou
 ### Contents
 
 
-# Topics (listed by chapter)
-## Chapter 1: A Tour of Computer Systems
+## Topics (listed by chapter)
+### Chapter 1: A Tour of Computer Systems
 
-## Chapter 2: Representing and Manipulating information
+### Chapter 2: Representing and Manipulating information
 
-## Chapter 3: Machine-Level Representation of Programs
+### Chapter 3: Machine-Level Representation of Programs
 
-## Chapter 4: Processor Architecture
+### Chapter 4: Processor Architecture
 
-## Chapter 5: Optimizing Program Performance
+### Chapter 5: Optimizing Program Performance
 
-## Chapter 6: The Memory Hierarchy
+### Chapter 6: The Memory Hierarchy
 
-## Chapter 7: Linking
+### Chapter 7: Linking
 
-## Chapter 8:  Exceptional Control Flow
+### Chapter 8:  Exceptional Control Flow
 
-## Chapter 9: Virtual Memory
+### Chapter 9: Virtual Memory
 
-## Chatper 10: System-Level I/O
+### Chatper 10: System-Level I/O
 
-## Chapter 11: Network Programming
+### Chapter 11: Network Programming
 
-## Chapter 12: Concurrent Programming
+### Chapter 12: Concurrent Programming
 
-# Labs
-## Data Lab
+## Labs
+### Data Lab
 
-## Bomb Lab
+### Bomb Lab
 
-## Attack Lab
+### Attack Lab
 
-## Buffer Lab
+### Buffer Lab
 
-## Architecture Lab
+### Architecture Lab
 
-## Cache Lab
+### Cache Lab
 
-## Performance Lab
+### Performance Lab
 
-## Shell Lab
+### Shell Lab
 
-## Malloc Lab
+### Malloc Lab
 
-## Proxy Lab
+### Proxy Lab
 
-# Miscellaneous Resources
+## Miscellaneous Resources
