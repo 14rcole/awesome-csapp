@@ -12,7 +12,7 @@ A curated list of awesome resources to give you a leg up in computer systems cou
     - [Linking](#chapter-7-linking)
     - [Exceptional Control Flow](#chapter-8-exceptional-control-flow)
     - [Virtual Memory](#chapter-9-virtual-memory)
-    - [Systems-Level I/O](#chapter-10-systems-level-i-o)
+    - [Systems-Level I/O](#chapter-10-systems-level-io)
     - [Network Programming](#chapter-11-network-programming)
     - [Concurrent Programming](#chapter-12-concurrent-programming)
 - [Labs](#labs)
