@@ -47,6 +47,7 @@ A curated list of awesome resources to give you a leg up in computer systems cou
 ### Chapter 8:  Exceptional Control Flow
 
 ### Chapter 9: Virtual Memory
+* [Virtual Memory - David Black-Schaffer](https://www.youtube.com/watch?v=qcBIvnQt0Bw&list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX)
 
 ### Chatper 10: System-Level I/O
 
