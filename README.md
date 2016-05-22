@@ -50,7 +50,7 @@ A curated list of awesome resources to give you a leg up in computer systems cou
 ### Chapter 9: Virtual Memory
 * [Virtual Memory - David Black-Schaffer](https://www.youtube.com/watch?v=qcBIvnQt0Bw&list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX) - an extremely thorough set of YouTube videos describing how virtual memory works and why it exists
 
-### Chatper 10: System-Level I/O
+### Chapter 10: System-Level I/O
 * [Unix File System Basics](http://www.tutorialspoint.com/unix/unix-file-system.htm) - a solid introduction to the Unix filesystem
 
 ### Chapter 11: Network Programming
