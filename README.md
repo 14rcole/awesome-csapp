@@ -1,5 +1,5 @@
 # Awesome CSAPP
-A curated list of awesome resources to give you a leg up in computer systems courses based off of the Computer Systems: A Programmer's Perspective textbook.  For example, CS 213 (CMU), CSE202 (Lehigh), and CSCI-UA 201 (NYU)
+A curated list of awesome resources to give you a leg up in computer systems courses based off of the Computer Systems: A Programmer's Perspective textbook.  For example, CS 15-213 (CMU), CSE202 (Lehigh), and CSCI-UA 201 (NYU)
 
 ### Contents
 - [Topics (listed by chapter)](#topics)
@@ -33,6 +33,7 @@ A curated list of awesome resources to give you a leg up in computer systems cou
 ### Chapter 1: A Tour of Computer Systems
 
 ### Chapter 2: Representing and Manipulating information
+* [IEEE Standard 754 Floating Point Numbers](http://steve.hollasch.net/cgindex/coding/ieeefloat.html) - An awesome guide by Steve Hollasch as to how floating point numbers are structured
 
 ### Chapter 3: Machine-Level Representation of Programs
 
@@ -47,7 +48,7 @@ A curated list of awesome resources to give you a leg up in computer systems cou
 ### Chapter 8:  Exceptional Control Flow
 
 ### Chapter 9: Virtual Memory
-* [Virtual Memory - David Black-Schaffer](https://www.youtube.com/watch?v=qcBIvnQt0Bw&list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX)
+* [Virtual Memory - David Black-Schaffer](https://www.youtube.com/watch?v=qcBIvnQt0Bw&list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX) - an extremely thorough set of YouTube videos describing how virtual memory works and why it exists
 
 ### Chatper 10: System-Level I/O
 
