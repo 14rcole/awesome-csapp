@@ -12,12 +12,12 @@ A curated list of awesome resources to give you a leg up in computer systems cou
     - [Linking](#chapter-7-linking)
     - [Exceptional Control Flow](#chapter-8-exceptional-control-flow)
     - [Virtual Memory](#chapter-9-virtual-memory)
-    - [Systems-Level I/O](#chapter-10-systems-level-io)
+    - [Systems-Level I/O](#chapter-10-system-level-io)
     - [Network Programming](#chapter-11-network-programming)
     - [Concurrent Programming](#chapter-12-concurrent-programming)
 - [Labs](#labs)
     - [Data Lab](#data-lab)
-    - [Bomb Labl](#bomb-lab)
+    - [Bomb Lab](#bomb-lab)
     - [Attack Lab](#attack-lab)
     - [Buffer Lab](#buffer-lab)
     - [Architecture Lab](#architecture-lab)
@@ -45,7 +45,7 @@ A curated list of awesome resources to give you a leg up in computer systems cou
 
 ### Chapter 7: Linking
 
-### Chapter 8:  Exceptional Control Flow
+### Chapter 8: Exceptional Control Flow
 
 ### Chapter 9: Virtual Memory
 * [Virtual Memory - David Black-Schaffer](https://www.youtube.com/watch?v=qcBIvnQt0Bw&list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX) - an extremely thorough set of YouTube videos describing how virtual memory works and why it exists
